@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "netherite_road:netherite_alloy",
+  "result": { "item": "netherite_road:netherite_block" },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": { "item": "netherite_road:netherite_ingot" }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "netherite_road:netherite_alloy",
+  "result": { "item": "netherite_road:netherite_ingot", "count": 9 },
+  "ingredients": [
+    { "item": "netherite_road:netherite_block", "data": 0 }
+  ]
+}

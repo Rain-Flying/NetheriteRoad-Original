@@ -1,0 +1,34 @@
+{
+  "armor_sound": {
+    "category": "player",
+    "subtitle": "netherite_road.sound.armor_up",
+    "sounds": [
+      "netherite_road:music/equip_netherite1",
+      "netherite_road:music/equip_netherite2",
+      "netherite_road:music/equip_netherite3",
+      "netherite_road:music/equip_netherite4"
+    ]
+  },
+  "n_block_break": {
+    "category": "block",
+    "subtitle": "netherite_road.n_block_break",
+    "sounds": [
+      "netherite_road:break1",
+      "netherite_road:break2",
+      "netherite_road:break3",
+      "netherite_road:break4"
+    ]
+  },
+  "n_block_step": {
+    "category": "block",
+    "subtitle": "netherite_road.n_block_step",
+    "sounds": [
+      "netherite_road:step1",
+      "netherite_road:step2",
+      "netherite_road:step3",
+      "netherite_road:step4",
+      "netherite_road:step5",
+      "netherite_road:step6"
+    ]
+  }
+}

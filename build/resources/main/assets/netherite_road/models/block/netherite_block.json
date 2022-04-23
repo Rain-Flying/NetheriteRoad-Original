@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "netherite_road:blocks/netherite_block",
+    "up": "netherite_road:blocks/netherite_block",
+    "north": "netherite_road:blocks/netherite_block",
+    "east": "netherite_road:blocks/netherite_block",
+    "south": "netherite_road:blocks/netherite_block",
+    "west": "netherite_road:blocks/netherite_block",
+    "particle": "netherite_road:blocks/netherite_block"
+  }
+}

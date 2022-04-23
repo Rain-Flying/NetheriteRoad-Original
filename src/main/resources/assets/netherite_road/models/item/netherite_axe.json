@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "netherite_road:items/netherite_axe"
+  }
+}

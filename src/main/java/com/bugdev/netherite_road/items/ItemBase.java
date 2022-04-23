@@ -13,10 +13,12 @@ import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 import net.minecraft.world.World;
 
+import static com.bugdev.netherite_road.NetheriteRoad.MOD_ID;
+
 public class ItemBase extends Item implements IHasModel {
     public ItemBase(String name) {
-        setTranslationKey(name);
-        setRegistryName(name);
+        setTranslationKey(MOD_ID+"."+name);
+        setRegistryName(MOD_ID,name);
         setCreativeTab(new NetheriteTab());
         ModItems.ITEMS.add(this);
     }

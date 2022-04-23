@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "netherite_road:blocks/ancient_rock",
+    "up": "netherite_road:blocks/ancient_rock",
+    "north": "netherite_road:blocks/ancient_rock",
+    "east": "netherite_road:blocks/ancient_rock",
+    "south": "netherite_road:blocks/ancient_rock",
+    "west": "netherite_road:blocks/ancient_rock",
+    "particle": "netherite_road:blocks/ancient_rock"
+  }
+}

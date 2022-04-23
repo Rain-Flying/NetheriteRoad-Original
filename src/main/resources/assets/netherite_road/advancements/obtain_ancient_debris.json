@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "nether_road:ancient_debris"
+    },
+    "title": {
+      "translate": "advancements.obtianancientdebris.title"
+    },
+    "description": {
+      "translate": "advancements.obtianancientdebris.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "obtain_ancient_debris": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "nether_road:ancient_debris",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0
+  },
+  "parent": "minecraft:nether/root"
+}
