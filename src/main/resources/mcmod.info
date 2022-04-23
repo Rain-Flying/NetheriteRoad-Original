@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "netherite_road",
+    "name": "NetheriteRoad",
+    "description": "A Netherite Mod",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "BUGDev"
+    ],
+    "credits": "",
+    "logoFile": "logo.png",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
